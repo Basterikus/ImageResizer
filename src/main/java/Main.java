@@ -1,5 +1,3 @@
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.Arrays;
 import java.util.Objects;
